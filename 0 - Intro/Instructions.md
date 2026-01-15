@@ -1,0 +1,5 @@
+If you have a working installation of Python with xlwings and know how to manage a Jupyter notebook, we recommend to start directly with the Beginners Tutorials (Tutorial 1-4), in that order. After that, take on the Advanced Tutorials (Tutorial 5-7). Note that the Advanced Tutorials can be taken in any order.
+
+If you are new to Python and xlwings, start with the very first section: xlwings for Absolute Beginners. This should guide you through the proper installation of Anaconda, the Python distribution that we're going to use throughout this course. It'll also introduce Jupyter Notebooks that are used for the course material. The installation of the xlwings Excel add-in, however, is covered when it is first required by the course outline, that is in Tutorial 3.
+
+And finally: Do you use a non-English version of Excel and/or Windows? Then have a look at the next section where it shows you where you need to make adjustments to the samples when you copy code from the course samples.
